@@ -3,7 +3,8 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ```
-![image](https://user-images.githubusercontent.com/103760832/209859126-0e875d11-ecf6-45ce-8be1-7d979a930cbd.png)
+![image](https://user-images.githubusercontent.com/103760832/209859349-2523a1d2-0114-4375-afee-0e825d1de1c0.png)
+
 
 ![image](https://user-images.githubusercontent.com/103760832/209859277-8a247562-a35f-4e1f-a7ec-56ff2380b5ff.png)
 
